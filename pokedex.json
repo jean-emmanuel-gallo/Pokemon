@@ -1,0 +1,30 @@
+[
+    {
+        "nom": "Pikachu",
+        "type": "Electrique",
+        "defense": 80,
+        "attaque": 20,
+        "points_vie": 2
+    },
+    {
+        "nom": "Salameche",
+        "type": "Eau",
+        "defense": 20,
+        "attaque": 7000,
+        "points_vie": 0
+    },
+    {
+        "nom": "PizzaMan",
+        "type": "Feu",
+        "defense": 35,
+        "attaque": 35,
+        "points_vie": 96
+    },
+    {
+        "nom": "Weed",
+        "type": "Plante",
+        "defense": 25,
+        "attaque": 45,
+        "points_vie": 90
+    }
+]
