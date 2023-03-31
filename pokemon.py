@@ -103,7 +103,7 @@ pokedex = Pokedex()
 
 # exemple de Pokemon
 pikachu = Electrique("Pikachu", 80, 20, 2)
-jérome = Eau("Salameche", 20, 7000, 0.1)
+jérome = Eau("Jérome", 20, 7000, 0.1)
 pizzaMan = Feu("PizzaMan", 35, 35, 120)
 weed = Plante("Weed", 25, 45, 90)
 
